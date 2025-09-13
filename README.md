@@ -1,6 +1,4 @@
-# CH-1 : First Project
-
-This is my first data cleaning project.  
+# CH-1 : First Project (datascience2.ipynb)
 The dataset (`duplicate.json`) contains users and pages with some issues like:
 - Users with no names
 - Duplicate users and pages
@@ -18,6 +16,4 @@ The dataset (`duplicate.json`) contains users and pages with some issues like:
 - Remove duplicate pages  
 
 ---
-
 ✨ This repo is for practice projects in **Data Science**.
-
