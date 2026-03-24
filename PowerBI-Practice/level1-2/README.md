@@ -6,6 +6,7 @@ This folder contains basic data cleaning tasks in Power BI.
 - Removed duplicate rows
 - Filtered data (Population > 50 million)
 - Applied all transformations to load clean dataset
+![Data Cleaning](lvl1_cleaning.png)
 # 🟡 Level 2: Data Visualization
 Understand how to represent data visually using charts.
 ## 📊 Visuals Created
