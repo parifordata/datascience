@@ -25,7 +25,7 @@ Display important summary metrics using Card visuals.
      - Max Growth Rate
 6. Adjusted size and aligned all cards in one row
 
----
+![KPI Cards](kpi_cards.png)
 
 # 🔹 Task 2: Understanding Sum vs Average vs Max
 
@@ -61,7 +61,7 @@ Compare economic strength across income groups.
 5. Opened **Format panel**:
    - Title → ON → "Average GDP by Income Group"
    - Data Labels → ON
-
+![Income Analysis](analysis.png)
 ---
 
 # 📊 Key Insights
