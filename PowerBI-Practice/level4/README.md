@@ -19,7 +19,8 @@ Population Category =
 IF([Population] > 1000000000, "Very High",
 IF([Population] > 100000000, "High",
 "Medium"))
-### ✔ Slicer Added
+
+### SLICER ADDED:
 Field → Population Category
 ✔ What it does:
 Acts as an interactive filter
