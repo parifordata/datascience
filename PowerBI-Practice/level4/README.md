@@ -19,6 +19,8 @@ Population Category =
 IF([Population] > 1000000000, "Very High",
 IF([Population] > 100000000, "High",
 "Medium"))
+![dax](img1.png)
+
 
 ### SLICER ADDED:
 Field → Population Category
@@ -28,3 +30,4 @@ Allows user to select:
 Very High
 High
 Medium
+![image](img.png)
