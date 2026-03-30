@@ -13,13 +13,14 @@ Used DAX to classify countries based on population:
 - High → Population > 100 Million  
 - Medium → Others  
 
+![dax](img1.png)
+
 ### DAX Code:
 ```DAX
 Population Category = 
 IF([Population] > 1000000000, "Very High",
 IF([Population] > 100000000, "High",
 "Medium"))
-![dax](img1.png)
 
 
 ### SLICER ADDED:
@@ -30,4 +31,4 @@ Allows user to select:
 Very High
 High
 Medium
-![image](img.png)
+![image](image.png)
