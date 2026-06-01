@@ -4,7 +4,7 @@ A dynamic Power BI dashboard engineered to track, analyze, and uncover deep insi
 
 ## 🚀 Live View & Screenshots
 
-![Customer Behavior Dashboard Overview](images/img.png)
+![Customer Behavior Dashboard Overview](dashboard/img.png)
 
 --
 
